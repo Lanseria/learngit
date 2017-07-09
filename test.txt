@@ -1,1 +1,1 @@
-ajsdhsjak
+git update-index --no-assume-unchanged <file>
