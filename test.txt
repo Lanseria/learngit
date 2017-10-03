@@ -1,1 +1,2 @@
 git update-index --no-assume-unchanged <file>
+hello test rebase
