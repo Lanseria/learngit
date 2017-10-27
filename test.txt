@@ -1,3 +1,4 @@
 git update-index --no-assume-unchanged <file>
 hello test rebase
 这里是test分支，已经完成任务
+在原来的分支上继续开发新的e功能， 这是错误的
